@@ -1,0 +1,15 @@
+html{
+  scroll-behavior: smooth;
+}
+.home{
+  background-image: url('../images/backgrounds/h_img.jpg');
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  color:white;
+  padding-top: 500px;
+  text-align: center;
+}
+.home p{
+  padding: 2px;
+}
