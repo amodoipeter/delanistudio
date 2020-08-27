@@ -7,9 +7,20 @@ html{
   background-position: center center;
   background-repeat: no-repeat;
   color:white;
-  padding-top: 500px;
+  padding-top: 100px;
   text-align: center;
+}
+.home h1{
+  padding: 2px;
+  margin: 3px;
 }
 .home p{
   padding: 2px;
+  padding-bottom: 220px;
+}
+#logo{
+  margin-top: 120px;
+  width: 80px;
+  height: 80px;
+  padding bottom: 10px;
 }
