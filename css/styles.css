@@ -4,7 +4,7 @@ html{
 .home{
   background-image: url('../images/backgrounds/h_img.jpg');
   background-size: cover;
-  background-position: center center;
+  background-position: center;
   background-repeat: no-repeat;
   color:white;
   padding-top: 100px;
@@ -43,4 +43,20 @@ html{
   text-align: center;
   padding-top: 50px;
   font-family: sans-serif;
+  padding-bottom: 40px;
+}
+.services{
+  text-align: center;
+  background-image: url("../images/backgrounds/s_image.jpg");
+  color: white;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-size: 20px;
+  height: 400px;
+  background-position: center;
+}
+.layout{
+  background-color: rgba(0,0,0,0.4);
+  padding-top: 100px;
+  padding-bottom: 85px
 }
