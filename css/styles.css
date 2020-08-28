@@ -22,7 +22,7 @@ html{
   margin-top: 80px;
   width: 80px;
   height: 80px;
-  padding bottom: 10px;
+  padding bottom: 20px;
 }
 #mouse{
   padding-bottom: 20px;
@@ -38,4 +38,9 @@ html{
   60% {
     transform: translateY(-45px);
   }
+}
+#about_us{
+  text-align: center;
+  padding-top: 50px;
+  font-family: sans-serif;
 }
