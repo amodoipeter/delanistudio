@@ -75,9 +75,18 @@ html{
   text-align: center;
   padding-top: 20px;
 }
-#portfolio{
+#portfolio-header{
   text-align: center;
 }
 .portfolio{
   padding-top: 40px;
+}
+#portfolio{
+flex-wrap: wrap;
+align-items: center;
+padding-top: 20px;
+}
+.col-md-3 img{
+  max-width: 100%;
+  max-height: 100%;
 }
