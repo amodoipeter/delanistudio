@@ -64,7 +64,7 @@ html{
   text-align: center;
 }
 .what-we-do{
-  padding-top: 40px;
+  padding-top: 80px;
 }
 .descripion{
   text-align: center;
@@ -74,4 +74,10 @@ html{
 .icon{
   text-align: center;
   padding-top: 20px;
+}
+#portfolio{
+  text-align: center;
+}
+.portfolio{
+  padding-top: 40px;
 }
