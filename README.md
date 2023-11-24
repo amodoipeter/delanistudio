@@ -11,16 +11,6 @@ This project is a web application for Delani studio that shows details about the
 ## Live Page
 https://amodoipeter.github.io/delanistudio
 
-
-## Installation / Setup instruction
-* Open Terminal {Ctrl+Alt+T}
-
-* git clone ```https://github.com/amodoipeter/delanistudio.git```
-
-* cd delanistudio
-
-* code . or atom . depending on the text editor of your choise.
-
 ## Technologies Used
 
 * [HTML5](https://github.com/topics/html5)
